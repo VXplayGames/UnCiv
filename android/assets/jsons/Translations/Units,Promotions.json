@@ -14,6 +14,7 @@
 		Traditional_Chinese:"平民單位",
 		Portuguese:"Cidadão"
 		Czech:"Civilista"
+		Polish:"Cywil"
 	}
 
 	"land units":{
@@ -22,6 +23,7 @@
 		Traditional_Chinese:"陸軍單位",
 		Russian:"наземные юниты"
 		Czech:"Pozemní jednotky"
+	        Polish:"Jednostki lądowe"
 	}
 
 	"water units":{
@@ -30,6 +32,7 @@
 		Traditional_Chinese:"海軍單位",
 		Russian:"морские юниты"
 		Czech:"Námořní jednotky"
+		Polish:"Jednostki wodne"
 	}
 
 	"air units":{
@@ -38,6 +41,7 @@
 		Traditional_Chinese:"空軍單位",
 		Russian:"воздушные юниты"
 		Czech:"Vzdušné jednotky"
+		Polish:"Jednostki powietrzne"
 	}
 
 	"WaterCivilian":{ // In the file "Uints.json", every unit have the "unitType", i think we should show the "unitType" in wiki,because some units get a bonus attack to other units.
@@ -48,6 +52,7 @@
 		French:"Civil embarqué"
 		Russian:"Мирный, морской"
 		Czech:"Vodní civilista"
+		Polish:"Woda cywilna"
 	}
 
 	"Melee":{
@@ -62,6 +67,7 @@
 		Traditional_Chinese:"近戰單位",
 		Portuguese:"Corpo a corpo"
 		Czech:"Boj zblízka"
+		Polish:"Bijatyka"
 	}
 
 	"WaterMelee":{
